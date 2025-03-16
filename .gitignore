@@ -1,0 +1,9 @@
+# dotenv
+.env
+**/__pycache__/
+**/.env/
+/media/*
+!/media/.gitkeep
+# Migrations (optional)
+*/migrations/* 
+!*/migrations/__init__.py
