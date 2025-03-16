@@ -5,5 +5,5 @@
 /media/*
 !/media/.gitkeep
 # Migrations (optional)
-*/migrations/* 
-!*/migrations/__init__.py
+**/migrations/*
+!**/migrations/__init__.py
